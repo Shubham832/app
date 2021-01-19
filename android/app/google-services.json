@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719826661832",
+    "project_id": "imbuedesk-project",
+    "storage_bucket": "imbuedesk-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719826661832:android:b944fd00827c26c65310fd",
+        "android_client_info": {
+          "package_name": "com.example.imbuedesk_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719826661832-9514l7r6uof8qopfdtham00v66dmd7i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyFGvuOLoWg8pEDUyjAiT9HhvMb6xMJaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719826661832-9514l7r6uof8qopfdtham00v66dmd7i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
